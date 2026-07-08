@@ -10,7 +10,7 @@ Cruzamos estes dados com a lista anterior de **57 pessoas que não haviam feito 
 
 ## 1. Situação dos 57 Jovens Sem Formulário (Linhas Vermelhas)
 
-Dos 57 jovens mapeados anteriormente como "Sem Formulário", **18 preencheram o formulário** e **39 continuam sem resposta**.
+Dos 57 jovens mapeados anteriormente como "Sem Formulário", **18 preencheram o formulário**, **5 foram excluídos (desistência/sem contato)** e **34 continuam sem resposta**.
 
 ### 1.1. Preencheram o formulário agora (18 pessoas)
 
@@ -35,7 +35,18 @@ Dos 57 jovens mapeados anteriormente como "Sem Formulário", **18 preencheram o 
 | valdemiro de abreu dantas | Turma 2 | Maranguape | (85) 99976-7929 | valdemiro234@gmail.com |  |
 | vinnycius da silva fialho | Turma 2 | Maranguape | 85998273473 | vinnynescau3@gmail.com |  |
 
-### 1.2. Continuam SEM preencher o formulário (39 pessoas)
+### 1.2. Excluídos da Pendência (5 pessoas)
+> [!NOTE]
+> Estes jovens foram removidos da lista de pendências por motivo de desistência ou falta de contato.
+>
+> **Nomes:**
+> - Deniel Keven Barbosa da Silva (Turma 2)
+> - Gabrielly Paulo Da Silva (Turma 2)
+> - Maria Luiza Nascimento Da Silva (Turma 2)
+> - kauan vianaey lins rodrigues (Turma 2)
+> - larizianny da silva santos (Turma 1)
+
+### 1.3. Continuam SEM preencher o formulário (34 pessoas)
 > [!IMPORTANT]
 > Estas pessoas devem ser cobradas prioritariamente.
 
@@ -47,7 +58,6 @@ Dos 57 jovens mapeados anteriormente como "Sem Formulário", **18 preencheram o 
 | Ana Carolina Rodrigues de Sousa | Turma 1 |
 | Caio Santos De Abreu | Turma 2 |
 | Carlos Mikaell Travassos De Menezes | Turma 1 |
-| Deniel Keven Barbosa da Silva | Turma 2 |
 | Eduardo Cavalcante Machado Filho | Turma 1 |
 | FRANCISCO CLÉBER BARROZO PIREZ | Turma 1 |
 | Fabner Lucas Rodrigues Silva | Turma 2 |
@@ -56,13 +66,11 @@ Dos 57 jovens mapeados anteriormente como "Sem Formulário", **18 preencheram o 
 | Francisco Fernando Batista Lúcio | Turma 1 |
 | Francisco Romero Andrade Dos Santos | Turma 1 |
 | Francisco erick damasceno ribeiro | Turma 1 |
-| Gabrielly Paulo Da Silva | Turma 2 |
 | Irruan Italo Ricardo Nunes | Turma 2 |
 | Jailane Viana Rodrigues | Turma 2 |
 | João Victor Costa Lima | Turma 2 |
 | Leticia Oliveira Lima | Turma 1 |
 | Luana Kessyane da Silva Capistrano | Turma 1 |
-| Maria Luiza Nascimento Da Silva | Turma 2 |
 | Marllon de Sousa Abreu | Turma 2 |
 | Maxwell Maciel de Sousa | Turma 1 |
 | Nykolas de Moura Félix | Turma 1 |
@@ -75,8 +83,6 @@ Dos 57 jovens mapeados anteriormente como "Sem Formulário", **18 preencheram o 
 | jamysson araujo bezerra | Turma 2 |
 | joao vitor pereira santos de brito | Turma 2 |
 | jose dantas de carvalho filho | Turma 2 |
-| kauan vianaey lins rodrigues | Turma 2 |
-| larizianny da silva santos | Turma 1 |
 | marcos felipe sousa silva | Turma 1 |
 | vinicius martins sousa | Turma 1 |
 | vitoria maria braga da siva | Turma 2 |
@@ -87,9 +93,10 @@ Dos 57 jovens mapeados anteriormente como "Sem Formulário", **18 preencheram o 
 
 A aba **MARANGUAPE** do EIXO 2 possui **132 registros**.
 - **81** pessoas constam na nova planilha LABJUV (preencheram o formulário).
-- **51** pessoas do EIXO 2 MARANGUAPE **não constam** na nova planilha LABJUV (não preencheram ou preencheram com dados incompatíveis).
+- **5** pessoas foram excluídas da pendência por desistência ou falta de contato.
+- **46** pessoas do EIXO 2 MARANGUAPE **não constam** na nova planilha LABJUV (continuam pendentes).
 
-### 2.1. Jovens de Maranguape (Eixo 2) que ainda NÃO constam na planilha LABJUV (51 pessoas)
+### 2.1. Jovens de Maranguape (Eixo 2) que ainda NÃO constam na planilha LABJUV (46 pessoas)
 
 | # | Nome no Eixo 2 |
 |---|----------------|
@@ -101,49 +108,44 @@ A aba **MARANGUAPE** do EIXO 2 possui **132 registros**.
 | 6 | Ana Stephany Silva Teixeira |
 | 7 | Caio Santos De Abreu |
 | 8 | Carlos Mikaell Travassos De Menezes |
-| 9 | Deniel Keven Barbosa da Silva |
-| 10 | Diogo da Silva Maciel |
-| 11 | Eduardo Cavalcante Machado Filho |
-| 12 | Evilásio Lima De Andrade |
-| 13 | Fabner Lucas Rodrigues Silva |
-| 14 | Francisca Clara Helen Souza Da Silva |
-| 15 | Francisco Anelimar Vieira Dias |
-| 16 | Francisco Fernando Batista Lúcio |
-| 17 | Francisco Romero Andrade Dos Santos |
-| 18 | Francisco erick damasceno ribeiro |
-| 19 | Gabrielly Paulo Da Silva |
-| 20 | Irruan Italo Ricardo Nunes |
-| 21 | JOSÉ YÚRY DUARTE NOGUEIRA |
-| 22 | Jailane Viana Rodrigues |
-| 23 | João Victor Costa Lima |
-| 24 | Lailton Costa Araújo |
-| 25 | Leticia Oliveira Lima |
-| 26 | Luana Kessyane da Silva Capistrano |
-| 27 | Maria Luiza Nascimento Da Silva |
-| 28 | Marllon de Sousa Abreu |
-| 29 | Maxwell Maciel de Sousa |
-| 30 | Mirelly Alves de Almeida |
-| 31 | Nykolas de Moura Félix |
-| 32 | Paulo Kawann de Sousa Fernandes |
-| 33 | Raquel medeiros carioca |
-| 34 | Rayangela kerle nepomuceno freire |
-| 35 | Roberto Carlos Silva de Castro |
-| 36 | Thamirys Paz Amaral |
-| 37 | Victória Letícia Abreu Lobo |
-| 38 | Weendel Teixeira da Costa |
-| 39 | Yasminn Borges da Silva |
-| 40 | ana vitoria de sousa rocha |
-| 41 | antonio kaue nascimento da silva |
-| 42 | antonio marrikelvy matias silva |
-| 43 | jamysson araujo bezerra |
-| 44 | joao vitor pereira santos de brito |
-| 45 | jose dantas de carvalho filho |
-| 46 | jose davi manso alves |
-| 47 | kauan vianaey lins rodrigues |
-| 48 | larizianny da silva santos |
-| 49 | marcos felipe sousa silva |
-| 50 | vinicius martins sousa |
-| 51 | vitoria maria braga da siva |
+| 9 | Diogo da Silva Maciel |
+| 10 | Eduardo Cavalcante Machado Filho |
+| 11 | Evilásio Lima De Andrade |
+| 12 | Fabner Lucas Rodrigues Silva |
+| 13 | Francisca Clara Helen Souza Da Silva |
+| 14 | Francisco Anelimar Vieira Dias |
+| 15 | Francisco Fernando Batista Lúcio |
+| 16 | Francisco Romero Andrade Dos Santos |
+| 17 | Francisco erick damasceno ribeiro |
+| 18 | Irruan Italo Ricardo Nunes |
+| 19 | JOSÉ YÚRY DUARTE NOGUEIRA |
+| 20 | Jailane Viana Rodrigues |
+| 21 | João Victor Costa Lima |
+| 22 | Lailton Costa Araújo |
+| 23 | Leticia Oliveira Lima |
+| 24 | Luana Kessyane da Silva Capistrano |
+| 25 | Marllon de Sousa Abreu |
+| 26 | Maxwell Maciel de Sousa |
+| 27 | Mirelly Alves de Almeida |
+| 28 | Nykolas de Moura Félix |
+| 29 | Paulo Kawann de Sousa Fernandes |
+| 30 | Raquel medeiros carioca |
+| 31 | Rayangela kerle nepomuceno freire |
+| 32 | Roberto Carlos Silva de Castro |
+| 33 | Thamirys Paz Amaral |
+| 34 | Victória Letícia Abreu Lobo |
+| 35 | Weendel Teixeira da Costa |
+| 36 | Yasminn Borges da Silva |
+| 37 | ana vitoria de sousa rocha |
+| 38 | antonio kaue nascimento da silva |
+| 39 | antonio marrikelvy matias silva |
+| 40 | jamysson araujo bezerra |
+| 41 | joao vitor pereira santos de brito |
+| 42 | jose dantas de carvalho filho |
+| 43 | jose davi manso alves |
+| 44 | marcos felipe sousa silva |
+| 45 | vinicius martins sousa |
+| 46 | vitoria maria braga da siva |
 
 ---
 
@@ -193,7 +195,7 @@ Foram identificadas **33 CPFs duplicados** (totalizando **66 linhas**). Muitas d
 
 ## 4. Próximos Passos Recomendados
 
-1. **Cobrança Prioritária (Grupo de 57):** Cobrar os **40 jovens** que continuam sem formulário (Seção 1.2).
-2. **Cobrança Eixo 2 Maranguape:** Entrar em contato com os **55 jovens** da aba MARANGUAPE do Eixo 2 que ainda não constam na nova planilha LABJUV (Seção 2.1).
+1. **Cobrança Prioritária (Grupo de 57):** Cobrar os **34 jovens** que continuam sem formulário (Seção 1.3).
+2. **Cobrança Eixo 2 Maranguape:** Entrar em contato com os **46 jovens** da aba MARANGUAPE do Eixo 2 que ainda não constam na nova planilha LABJUV (Seção 2.1).
 3. **Limpeza de Duplicados:** No banco de dados LABJUV, remover ou consolidar as linhas repetidas listadas na Seção 3.1.
 4. **Alocação de Turmas:** Preencher a aba `ACOMPANHAMENTO` da planilha `Cópia de LABJUV 1ED Eixo 2 - Maranguape.xlsx` com os jovens confirmados de Maranguape.
