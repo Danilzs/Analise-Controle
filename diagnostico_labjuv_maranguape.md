@@ -1,10 +1,10 @@
 # Diagnóstico da Nova Planilha — Cópia de LABJUV
 
 Este diagnóstico analisa o arquivo `Cópia de LABJUV 1ED Eixo 2 - Maranguape.xlsx` (Aba `Respostas ao formulário 1`), que contém **693 linhas**.
-Cruzamos estes dados com a lista anterior de **57 pessoas que não haviam feito o formulário** (linhas vermelhas da transmissão) e com a base do `EIXO 2 (Dados Bancários)`.
+Cruzamos estes dados com a lista anterior de **57 pessoas que não haviam feito o formulário** (linhas vermelhas da transmissão).
 
 > [!NOTE]
-> **Melhoria de Precisão por Cruzamento de Telefone:** Foi realizada uma análise minuciosa por número de celular e e-mail. Isso permitiu identificar **7 jovens** que preencheram o formulário com pequenas variações de grafia, abreviações ou usando o nome social, e que constavam incorretamente como pendentes.
+> **Melhoria de Precisão por Cruzamento de Telefone:** Foi realizada uma análise minuciosa por número de celular e e-mail. Isso permitiu identificar **5 jovens** da lista que preencheram o formulário com pequenas variações de grafia ou usando o nome social, e que constavam incorretamente como pendentes.
 
 ---
 
@@ -89,71 +89,11 @@ Dos 57 jovens mapeados anteriormente como "Sem Formulário", **18 preencheram o 
 
 ---
 
-## 2. Cruzamento: EIXO 2 (Aba MARANGUAPE) vs Nova Planilha LABJUV
+## 2. Duplicidades e Inconsistências na Planilha de Respostas
 
-A aba **MARANGUAPE** do EIXO 2 possui **132 registros**.
-- **81** pessoas constam na nova planilha LABJUV (preencheram o formulário).
-- **5** pessoas foram excluídas da pendência por desistência ou falta de contato.
-- **46** pessoas do EIXO 2 MARANGUAPE **não constam** na nova planilha LABJUV (continuam pendentes).
+Foram identificadas **33 CPFs duplicados** (totalizando **66 linhas**). Muitas dessas duplicidades são envios repetidos com os mesmos dados.
 
-### 2.1. Jovens de Maranguape (Eixo 2) que ainda NÃO constam na planilha LABJUV (46 pessoas)
-
-| # | Nome no Eixo 2 |
-|---|----------------|
-| 1 |   |
-| 2 | Acácio Victor Ferreira de Queiroz |
-| 3 | Alexsandra de Azevedo Silva |
-| 4 | Allan Davison Silva de Souza |
-| 5 | Ana Carolina Rodrigues de Sousa |
-| 6 | Ana Stephany Silva Teixeira |
-| 7 | Caio Santos De Abreu |
-| 8 | Carlos Mikaell Travassos De Menezes |
-| 9 | Diogo da Silva Maciel |
-| 10 | Eduardo Cavalcante Machado Filho |
-| 11 | Evilásio Lima De Andrade |
-| 12 | Fabner Lucas Rodrigues Silva |
-| 13 | Francisca Clara Helen Souza Da Silva |
-| 14 | Francisco Anelimar Vieira Dias |
-| 15 | Francisco Fernando Batista Lúcio |
-| 16 | Francisco Romero Andrade Dos Santos |
-| 17 | Francisco erick damasceno ribeiro |
-| 18 | Irruan Italo Ricardo Nunes |
-| 19 | JOSÉ YÚRY DUARTE NOGUEIRA |
-| 20 | Jailane Viana Rodrigues |
-| 21 | João Victor Costa Lima |
-| 22 | Lailton Costa Araújo |
-| 23 | Leticia Oliveira Lima |
-| 24 | Luana Kessyane da Silva Capistrano |
-| 25 | Marllon de Sousa Abreu |
-| 26 | Maxwell Maciel de Sousa |
-| 27 | Mirelly Alves de Almeida |
-| 28 | Nykolas de Moura Félix |
-| 29 | Paulo Kawann de Sousa Fernandes |
-| 30 | Raquel medeiros carioca |
-| 31 | Rayangela kerle nepomuceno freire |
-| 32 | Roberto Carlos Silva de Castro |
-| 33 | Thamirys Paz Amaral |
-| 34 | Victória Letícia Abreu Lobo |
-| 35 | Weendel Teixeira da Costa |
-| 36 | Yasminn Borges da Silva |
-| 37 | ana vitoria de sousa rocha |
-| 38 | antonio kaue nascimento da silva |
-| 39 | antonio marrikelvy matias silva |
-| 40 | jamysson araujo bezerra |
-| 41 | joao vitor pereira santos de brito |
-| 42 | jose dantas de carvalho filho |
-| 43 | jose davi manso alves |
-| 44 | marcos felipe sousa silva |
-| 45 | vinicius martins sousa |
-| 46 | vitoria maria braga da siva |
-
----
-
-## 3. Duplicidades e Inconsistências na Nova Planilha
-
-Foram identificadas **33 CPFs duplicados** (totalizando **66 linhas**). Muitas dessas duplicidades são envios repetidos com os mesmos dados, mas alguns têm divergências.
-
-### 3.1. CPFs Duplicados
+### 2.1. CPFs Duplicados
 
 | CPF | Nome | E-mail | Telefone | Onde será acompanhado | Qtd. Envios | Linhas no Excel |
 |-----|------|--------|----------|-----------------------|-------------|-----------------|
@@ -193,9 +133,8 @@ Foram identificadas **33 CPFs duplicados** (totalizando **66 linhas**). Muitas d
 
 ---
 
-## 4. Próximos Passos Recomendados
+## 3. Próximos Passos Recomendados
 
-1. **Cobrança Prioritária (Grupo de 57):** Cobrar os **34 jovens** que continuam sem formulário (Seção 1.3).
-2. **Cobrança Eixo 2 Maranguape:** Entrar em contato com os **46 jovens** da aba MARANGUAPE do Eixo 2 que ainda não constam na nova planilha LABJUV (Seção 2.1).
-3. **Limpeza de Duplicados:** No banco de dados LABJUV, remover ou consolidar as linhas repetidas listadas na Seção 3.1.
-4. **Alocação de Turmas:** Preencher a aba `ACOMPANHAMENTO` da planilha `Cópia de LABJUV 1ED Eixo 2 - Maranguape.xlsx` com os jovens confirmados de Maranguape.
+1. **Cobrança Prioritária (Lista Vermelha):** Cobrar os **34 jovens** que continuam sem formulário (Seção 1.3).
+2. **Limpeza de Duplicados:** No banco de dados LABJUV, remover ou consolidar as linhas repetidas listadas na Seção 2.1.
+3. **Alocação de Turmas:** Preencher a aba `ACOMPANHAMENTO` da planilha `Cópia de LABJUV 1ED Eixo 2 - Maranguape.xlsx` com os jovens confirmados de Maranguape.
